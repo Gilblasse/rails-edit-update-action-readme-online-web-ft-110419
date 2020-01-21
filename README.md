@@ -1,4 +1,4 @@
-# Edit/Update Action
+ # Edit/Update Action
 
 ## Rails Controller Conventions
 
